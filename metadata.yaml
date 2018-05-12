@@ -1,0 +1,35 @@
+_repo: The-Old-Die-Rich_31892
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ashman, William
+    alias: Ashman
+    gutenberg_agent_id: '33729'
+    url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: archival
+  image_path: 31892-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gold, H. L. (Horace Leonard)
+    alias: Gold, Horace Leonard
+    birthdate: 1914
+    deathdate: 1996
+    gutenberg_agent_id: '35538'
+    url: http://www.gutenberg.org/2009/agents/35538
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Gold
+description: ''
+gutenberg_issued: '2010-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Old Die Rich
+url: http://www.gutenberg.org/ebooks/31892
